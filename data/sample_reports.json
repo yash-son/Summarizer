@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1001",
+        "type": "Chest X-Ray",
+        "report": "EXAMINATION: CHEST (PA AND LAT). \nINDICATION: 65-year-old male with productive cough and fever. \nFINDINGS: There is a focal area of consolidation in the right lower lobe. The cardiac silhouette is top normal in size. No pleural effusions or pneumothorax. Bony structures are intact. \nIMPRESSION: Right lower lobe pneumonia.",
+        "patient_history": "History of smoking and hypertension."
+    },
+    {
+        "id": "1002",
+        "type": "Head CT",
+        "report": "EXAMINATION: CT HEAD WITHOUT CONTRAST. \nINDICATION: 45-year-old female with sudden onset of severe headache. \nFINDINGS: There is no evidence of intracranial hemorrhage, mass effect, or midline shift. The ventricular system and cisterns are normal. No acute infarct is seen. Paranasal sinuses are clear. \nIMPRESSION: No acute intracranial process.",
+        "patient_history": "History of migraines."
+    },
+    {
+        "id": "1003",
+        "type": "Abdominal Ultrasound",
+        "report": "EXAMINATION: US ABDOMEN COMPLETE. \nINDICATION: Abdominal pain and elevated liver enzymes. \nFINDINGS: The liver is echogenic, consistent with hepatic steatosis. No focal liver lesions. The gallbladder contains several small mobile echogenic foci with posterior acoustic shadowing, consistent with cholelithiasis. The common bile duct is not dilated. \nIMPRESSION: 1. Hepatic steatosis. 2. Cholelithiasis without evidence of cholecystitis.",
+        "patient_history": "Type 2 diabetes and obesity."
+    }
+]
